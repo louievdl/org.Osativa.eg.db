@@ -30,7 +30,7 @@ doi:10.1093/nar/gkaa1113
 
 
 
-### Installation
+## Installation
 
 This package requires AnnotationHub, so ensure it is installed. Then install this package.
 
